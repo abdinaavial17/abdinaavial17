@@ -13,7 +13,7 @@ Saya seorang **Front-end dan Back-end developer** di [Dicoding](https://www.dico
 # Project saya
 - [Website toko komputer](https://github.com/abdinaavial17/Website-toko-komputer)
 - [Website kasir toko komputer](https://github.com/abdinaavial17/toko-komputer-admin)
-<br>
+
 <p align="left">
 <a href="https://github.com/abdinaavial17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdinaavial17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
