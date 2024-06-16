@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Abdi Naavi'al Umam Suleman**.<br>
 
-Saya seorang **Front-end dan Back-end developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Front-end developer** di [Dicoding](https://www.dicoding.com/).<br>
 
 # Sosial media
 - [Facebook](https://www.facebook.com/abdhi.abdilon)
